@@ -55,10 +55,12 @@ else: ABERTHIAD, ABERTHOL. One more family of Welsh books or long-form prose wou
 by tens of points. Golwg360 and Bro360 yielded only a handful of pages each to the harvest, so a
 deeper fetch of those two is the obvious next step.
 
-**English in the list.** The candidates carry English: THE, WAS, HIS, NOT and HAD are all on it,
-and the Welsh shelf, Wikipedia and Gutenberg all quote English, so about 200 shipped words are
-ordinary English words from the top of the English list (WAS, CALLED, PROBLEM, SYSTEM). A few of those are Welsh words too (MAN, PAN, CAN). That is a
-fault in the candidate list and wants fixing before this ships.
+**English in the list.** The candidates carry English (THE, WAS, HIS, NOT and HAD are all on
+them), and the Welsh shelf, Wikipedia and Gutenberg all quote English. Measured: 1,040 of the
+19,697 shipped words (5.3%) are also English candidates, and 218 are in the top 3,000 of the
+English list. A few of those 218 are Welsh words too (MAN, PAN, CAN); by eye about 150 are plain
+English (THE, WAS, DOES, ALL, WELL, PAID, UNION). That is a fault in the candidate list and wants
+fixing before this ships.
 
 **Tiles.** Every tile spells some shipped word; J (15) is the rarest.
 
