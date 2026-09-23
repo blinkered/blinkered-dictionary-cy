@@ -5,7 +5,7 @@ The Welsh word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Welsh.
 
-**19,488 of 47,635 candidates proved, 40.9%**, across 9 independent
+**19,697 of 47,635 candidates proved, 41.3%**, across 9 independent
 families, 9 of which a stranger could check by fetching.
 
 ## What is in this repository
@@ -49,16 +49,15 @@ does, in a way no fold can help with: FEDDWL, NGHYMRU and CHYMRAEG are separate 
 each needs its own three sightings. That is most of why a 47,635-word list sits near 40%.
 
 **Where the drop list points.** The first build, with 92 Archive texts and three publishers, kept
-35.4%; this one, with 179 texts (83 of them legible) and five publishers, keeps 40.9%. 13,926 of the
-15,691 words still one family short are attested by the Archive and Wikipedia and nothing else:
-ABERTHIAD, ABERTHOL. One more family of Welsh books or long-form prose would move this list by
-tens of points. Golwg360 and Bro360 yielded only a handful of pages each to the harvest, so a
+35.4%; this one, with 242 texts (129 of them legible) and five publishers, keeps 41.3%. 14,967 of
+the 16,524 words still one family short are attested by the Archive and Wikipedia and nothing
+else: ABERTHIAD, ABERTHOL. One more family of Welsh books or long-form prose would move this list
+by tens of points. Golwg360 and Bro360 yielded only a handful of pages each to the harvest, so a
 deeper fetch of those two is the obvious next step.
 
 **English in the list.** The candidates carry English: THE, WAS, HIS, NOT and HAD are all on it,
 and the Welsh shelf, Wikipedia and Gutenberg all quote English, so about 200 shipped words are
-ordinary English words from the top of the English list (WAS, CALLED, PROBLEM, SYSTEM). Some are
-also Welsh (MAE is not on that list, but MAN, PAN, HEN and CAN are Welsh words too). That is a
+ordinary English words from the top of the English list (WAS, CALLED, PROBLEM, SYSTEM). A few of those are Welsh words too (MAN, PAN, CAN). That is a
 fault in the candidate list and wants fixing before this ships.
 
 **Tiles.** Every tile spells some shipped word; J (15) is the rarest.

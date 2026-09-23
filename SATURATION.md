@@ -8,7 +8,7 @@ the curve a careful builder would get, not the order this repository happens to 
 The first two families keep nothing, which is not padding — it is the shape of a rule that needs
 three independent sources.
 
-Candidates: 47,635. Shipped: 19,488.
+Candidates: 47,635. Shipped: 19,697.
 
 Of 9 families, **9 can be checked by fetching** —
 a stable identifier or a page we fetched ourselves. The other 0 are crawls
@@ -19,12 +19,12 @@ it is their published corpus, not the web.
 | --- | --- | --- | --- | --- |
 | 1 | `wikimedia` | 0 | 0.0% | — |
 | 2 | `internetarchive` | 0 | 0.0% | — |
-| 3 | `gutenberg` | 13,388 | 28.1% | +13,388 |
-| 4 | `barn.cymru` | 17,134 | 36.0% | +3,746 |
-| 5 | `ycymro.cymru` | 19,349 | 40.6% | +2,215 |
-| 6 | `tatoeba` | 19,441 | 40.8% | +92 |
-| 7 | `golwg360.cymru` | 19,473 | 40.9% | +32 |
-| 8 | `bro360.cymru` | 19,483 | 40.9% | +10 |
-| 9 | `gwales.com` | 19,488 | 40.9% | +5 |
+| 3 | `gutenberg` | 13,438 | 28.2% | +13,438 |
+| 4 | `barn.cymru` | 17,341 | 36.4% | +3,903 |
+| 5 | `ycymro.cymru` | 19,558 | 41.1% | +2,217 |
+| 6 | `tatoeba` | 19,647 | 41.2% | +89 |
+| 7 | `golwg360.cymru` | 19,682 | 41.3% | +35 |
+| 8 | `bro360.cymru` | 19,690 | 41.3% | +8 |
+| 9 | `gwales.com` | 19,697 | 41.3% | +7 |
 
-**Diminishing returns from family 6** (`tatoeba`, +92), where a family first added less than a twentieth of what the best one did.
+**Diminishing returns from family 6** (`tatoeba`, +89), where a family first added less than a twentieth of what the best one did.

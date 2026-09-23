@@ -2,11 +2,11 @@
   "language": "cy",
   "built": "2026-09-23",
   "candidates": 47635,
-  "shipped": 19488,
+  "shipped": 19697,
   "ships": "pending",
   "decided": null,
   "why": null,
-  "license": null,
+  "license": "CC0-1.0",
   "conforms": true,
   "families": 9,
   "checkable": 9,
@@ -29,51 +29,51 @@
     {
       "families": 3,
       "added": "gutenberg",
-      "kept": 13388,
-      "share": 0.281054,
-      "gained": 13388
+      "kept": 13438,
+      "share": 0.282103,
+      "gained": 13438
     },
     {
       "families": 4,
       "added": "barn.cymru",
-      "kept": 17134,
-      "share": 0.359694,
-      "gained": 3746
+      "kept": 17341,
+      "share": 0.364039,
+      "gained": 3903
     },
     {
       "families": 5,
       "added": "ycymro.cymru",
-      "kept": 19349,
-      "share": 0.406193,
-      "gained": 2215
+      "kept": 19558,
+      "share": 0.41058,
+      "gained": 2217
     },
     {
       "families": 6,
       "added": "tatoeba",
-      "kept": 19441,
-      "share": 0.408124,
-      "gained": 92
+      "kept": 19647,
+      "share": 0.412449,
+      "gained": 89
     },
     {
       "families": 7,
       "added": "golwg360.cymru",
-      "kept": 19473,
-      "share": 0.408796,
-      "gained": 32
+      "kept": 19682,
+      "share": 0.413184,
+      "gained": 35
     },
     {
       "families": 8,
       "added": "bro360.cymru",
-      "kept": 19483,
-      "share": 0.409006,
-      "gained": 10
+      "kept": 19690,
+      "share": 0.413352,
+      "gained": 8
     },
     {
       "families": 9,
       "added": "gwales.com",
-      "kept": 19488,
-      "share": 0.409111,
-      "gained": 5
+      "kept": 19697,
+      "share": 0.413498,
+      "gained": 7
     }
   ]
 }

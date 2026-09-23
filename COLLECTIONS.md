@@ -13,7 +13,7 @@ collection rather than reuse its record only has to put the file back where the 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
 | `wiki:cy` | 41,913,937 |  | — |
-| `ia` | 15,244,621 | Internet Archive Welsh books — literature, and the register a newspaper never reaches | [archive-cy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Welsh%22+OR+language%3A%22cym%22+OR+language%3A%22wel%22%29) |
+| `ia` | 25,140,351 | Internet Archive Welsh books — literature, and the register a newspaper never reaches | [archive-cy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Welsh%22+OR+language%3A%22cym%22+OR+language%3A%22wel%22%29) |
 | `wikisource:cy` | 555,599 |  | — |
 | `web:barn.cymru` | 254,314 |  | fetched from `barn.cymru`, recorded in `searched.tsv` |
 | `web:ycymro.cymru` | 210,957 |  | fetched from `ycymro.cymru`, recorded in `searched.tsv` |
