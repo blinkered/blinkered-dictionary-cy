@@ -1,0 +1,65 @@
+{
+  "language": "cy",
+  "built": "2026-09-23",
+  "candidates": 47635,
+  "shipped": 16883,
+  "ships": "pending",
+  "decided": null,
+  "why": null,
+  "license": null,
+  "conforms": true,
+  "families": 7,
+  "checkable": 7,
+  "knee": 5,
+  "steps": [
+    {
+      "families": 1,
+      "added": "wikimedia",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 2,
+      "added": "internetarchive",
+      "kept": 0,
+      "share": 0,
+      "gained": 0
+    },
+    {
+      "families": 3,
+      "added": "gutenberg",
+      "kept": 13222,
+      "share": 0.277569,
+      "gained": 13222
+    },
+    {
+      "families": 4,
+      "added": "barn.cymru",
+      "kept": 16615,
+      "share": 0.348798,
+      "gained": 3393
+    },
+    {
+      "families": 5,
+      "added": "tatoeba",
+      "kept": 16769,
+      "share": 0.352031,
+      "gained": 154
+    },
+    {
+      "families": 6,
+      "added": "golwg360.cymru",
+      "kept": 16857,
+      "share": 0.353878,
+      "gained": 88
+    },
+    {
+      "families": 7,
+      "added": "bro360.cymru",
+      "kept": 16883,
+      "share": 0.354424,
+      "gained": 26
+    }
+  ]
+}
