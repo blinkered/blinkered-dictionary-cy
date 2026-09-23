@@ -12,12 +12,14 @@ collection rather than reuse its record only has to put the file back where the 
 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
-| `wiki:cy` | 41,913,937 | Welsh Wikipedia — modern encyclopedic prose, and the list that proposed the candidates | [cywiki.xml.bz2](https://dumps.wikimedia.org/cywiki/latest/cywiki-latest-pages-articles.xml.bz2) |
-| `ia` | 7,152,654 | Internet Archive Welsh books — literature, and the register a newspaper never reaches | [archive-cy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Welsh%22+OR+language%3A%22cym%22+OR+language%3A%22wel%22%29) |
-| `wikisource:cy` | 555,599 | Welsh Wikisource — same Wikimedia family, so it corroborates rather than counts | [cywikisource.xml.bz2](https://dumps.wikimedia.org/cywikisource/latest/cywikisource-latest-pages-articles.xml.bz2) |
-| `web:barn.cymru` | 238,136 |  | fetched from `barn.cymru`, recorded in `searched.tsv` |
+| `wiki:cy` | 41,913,937 |  | — |
+| `ia` | 15,244,621 | Internet Archive Welsh books — literature, and the register a newspaper never reaches | [archive-cy](https://archive.org/search?query=mediatype%3Atexts+AND+%28language%3A%22Welsh%22+OR+language%3A%22cym%22+OR+language%3A%22wel%22%29) |
+| `wikisource:cy` | 555,599 |  | — |
+| `web:barn.cymru` | 254,314 |  | fetched from `barn.cymru`, recorded in `searched.tsv` |
+| `web:ycymro.cymru` | 210,957 |  | fetched from `ycymro.cymru`, recorded in `searched.tsv` |
 | `gut` | 207,151 | Project Gutenberg Welsh, 15 texts | [gutenberg-cy](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
-| `tat` | 7,721 | Tatoeba Welsh — contemporary and conversational, and very small | [cym_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/cym/cym_sentences.tsv.bz2) |
+| `web:gwales.com` | 14,872 |  | fetched from `gwales.com`, recorded in `searched.tsv` |
+| `tat` | 7,721 |  | — |
 | `web:golwg360.cymru` | 2,940 |  | fetched from `golwg360.cymru`, recorded in `searched.tsv` |
 | `web:bro360.cymru` | 1,193 |  | fetched from `bro360.cymru`, recorded in `searched.tsv` |
 

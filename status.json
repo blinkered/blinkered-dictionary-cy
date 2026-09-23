@@ -2,15 +2,15 @@
   "language": "cy",
   "built": "2026-09-23",
   "candidates": 47635,
-  "shipped": 16883,
+  "shipped": 19488,
   "ships": "pending",
   "decided": null,
   "why": null,
   "license": null,
   "conforms": true,
-  "families": 7,
-  "checkable": 7,
-  "knee": 5,
+  "families": 9,
+  "checkable": 9,
+  "knee": 6,
   "steps": [
     {
       "families": 1,
@@ -29,37 +29,51 @@
     {
       "families": 3,
       "added": "gutenberg",
-      "kept": 13222,
-      "share": 0.277569,
-      "gained": 13222
+      "kept": 13388,
+      "share": 0.281054,
+      "gained": 13388
     },
     {
       "families": 4,
       "added": "barn.cymru",
-      "kept": 16615,
-      "share": 0.348798,
-      "gained": 3393
+      "kept": 17134,
+      "share": 0.359694,
+      "gained": 3746
     },
     {
       "families": 5,
-      "added": "tatoeba",
-      "kept": 16769,
-      "share": 0.352031,
-      "gained": 154
+      "added": "ycymro.cymru",
+      "kept": 19349,
+      "share": 0.406193,
+      "gained": 2215
     },
     {
       "families": 6,
-      "added": "golwg360.cymru",
-      "kept": 16857,
-      "share": 0.353878,
-      "gained": 88
+      "added": "tatoeba",
+      "kept": 19441,
+      "share": 0.408124,
+      "gained": 92
     },
     {
       "families": 7,
+      "added": "golwg360.cymru",
+      "kept": 19473,
+      "share": 0.408796,
+      "gained": 32
+    },
+    {
+      "families": 8,
       "added": "bro360.cymru",
-      "kept": 16883,
-      "share": 0.354424,
-      "gained": 26
+      "kept": 19483,
+      "share": 0.409006,
+      "gained": 10
+    },
+    {
+      "families": 9,
+      "added": "gwales.com",
+      "kept": 19488,
+      "share": 0.409111,
+      "gained": 5
     }
   ]
 }

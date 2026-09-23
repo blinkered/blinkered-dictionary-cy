@@ -5,8 +5,8 @@ The Welsh word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Welsh.
 
-**16,883 of 47,635 candidates proved, 35.4%**, across 7 independent
-families, 7 of which a stranger could check by fetching.
+**19,488 of 47,635 candidates proved, 40.9%**, across 9 independent
+families, 9 of which a stranger could check by fetching.
 
 ## What is in this repository
 
@@ -39,24 +39,26 @@ where to get it again, which is what makes the downloads disposable.
 
 **The families.** Welsh Wikipedia and Wikisource (one Wikimedia family, and Wikipedia also
 ordered the candidates), Tatoeba with barely a thousand sentences, fifteen Project Gutenberg
-texts, the Internet Archive's Welsh shelf, and three Welsh-language publishers fetched directly
-(`barn.cymru`, `golwg360.cymru` and `bro360.cymru`). Leipzig has no Welsh package at all and
+texts, the Internet Archive's Welsh shelf, and five Welsh-language publishers fetched directly
+(`barn.cymru`, `ycymro.cymru`, `gwales.com`, `golwg360.cymru` and `bro360.cymru`). Leipzig has no Welsh package at all and
 eBible has no Welsh translation, so there is no news corpus and no Bible family.
 
 **Digraphs are never tiles.** CH, DD, FF, NG, LL, PH, RH and TH are two tiles each, as for every
 digraph in the game, so matching a Welsh word in running text needs nothing special. Mutation
 does, in a way no fold can help with: FEDDWL, NGHYMRU and CHYMRAEG are separate candidates, and
-each needs its own three sightings. That is most of why a 47,635-word list sits at 35%.
+each needs its own three sightings. That is most of why a 47,635-word list sits near 40%.
 
-**Where the drop list points.** 13,443 of the 15,396 words one family short are attested by the
-Archive and Wikipedia and nothing else: ABERTHIAD, ABERTHOL. One more family of Welsh books or
-long-form prose would move this list by tens of points; the publishers are the obvious next step,
-and the harvest had reached only three of its five when this was built.
+**Where the drop list points.** The first build, with 92 Archive texts and three publishers, kept
+35.4%; this one, with 179 texts (83 of them legible) and five publishers, keeps 40.9%. 13,926 of the
+15,691 words still one family short are attested by the Archive and Wikipedia and nothing else:
+ABERTHIAD, ABERTHOL. One more family of Welsh books or long-form prose would move this list by
+tens of points. Golwg360 and Bro360 yielded only a handful of pages each to the harvest, so a
+deeper fetch of those two is the obvious next step.
 
 **English in the list.** The candidates carry English: THE, WAS, HIS, NOT and HAD are all on it,
 and the Welsh shelf, Wikipedia and Gutenberg all quote English, so about 200 shipped words are
-ordinary English words from the top of the English list (WAS, CALLED, PROBLEM, SYSTEM). A few of
-those are Welsh words too (MAN, PAN, CAN). That is a
+ordinary English words from the top of the English list (WAS, CALLED, PROBLEM, SYSTEM). Some are
+also Welsh (MAE is not on that list, but MAN, PAN, HEN and CAN are Welsh words too). That is a
 fault in the candidate list and wants fixing before this ships.
 
 **Tiles.** Every tile spells some shipped word; J (15) is the rarest.
