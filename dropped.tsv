@@ -1,4 +1,4 @@
-#blinkered/dropped/1 words=27938
+#blinkered/dropped/1 words=27912
 ABADAU	2	ia,wiki:cy	45,20
 ABADESAU	2	ia,wiki:cy	1,4
 ABERA	2	ia,wiki:cy	35,3
@@ -824,7 +824,6 @@ AREITHWYR	2	ia,wiki:cy,wikisource:cy	143,14,1
 AREITHYDDIAETH	2	ia,wiki:cy	161,19
 AREITHYDDOL	2	ia,wiki:cy	135,5
 AREL	2	ia,wiki:cy	16,5
-ARENA	2	ia,wiki:cy	35,666
 ARENAU	2	ia,wiki:cy,wikisource:cy	81,8,1
 AREOLA	2	ia,wiki:cy	3,9
 ARFBEISIAU	2	ia,wiki:cy	7,69
@@ -1199,7 +1198,6 @@ BASALT	2	ia,wiki:cy	7,29
 BASAR	2	ia,wiki:cy	5,15
 BASAT	2	ia,wiki:cy	1,2
 BASAU	2	ia,wiki:cy	5,33
-BASED	2	ia,wiki:cy	16,138
 BASGEDI	2	ia,wiki:cy	31,28
 BASIA	2	ia,wiki:cy	3,8
 BASIANT	2	ia,wiki:cy	6,9
@@ -1291,7 +1289,6 @@ BELET	2	ia,wiki:cy	1,9
 BELLAFOEDD	2	ia,wiki:cy	10,2
 BELLGYRHAEDDOL	2	web:ycymro.cymru,wiki:cy	1,16
 BELLI	2	ia,wiki:cy	48,103
-BELT	2	ia,wiki:cy	29,25
 BELTS	2	ia,wiki:cy	1,2
 BELYDRIAD	2	ia,wiki:cy	7,9
 BENA	2	ia,wiki:cy	52,24
@@ -1423,7 +1420,6 @@ BES	2	ia,wiki:cy,wikisource:cy	102,65,1
 BESG	2	ia,wiki:cy	5,2
 BESIMISTAIDD	2	ia,wiki:cy	2,5
 BESIMISTIAETH	2	ia,wiki:cy	1,6
-BETA	2	ia,wiki:cy	32,402
 BETAL	2	ia,wiki:cy	1,3
 BETALAU	2	web:barn.cymru,wiki:cy,wikisource:cy	1,131,1
 BETRIS	2	ia,wiki:cy	2,2
@@ -1467,7 +1463,6 @@ BILEN	2	ia,wiki:cy	42,182
 BILER	2	ia,wiki:cy	13,26
 BILI	2	ia,wiki:cy	25,36
 BILIO	2	ia,wiki:cy	10,6
-BILLION	2	ia,wiki:cy	2,43
 BING	2	ia,wiki:cy	24,268
 BINIO	2	ia,wiki:cy	11,6
 BINNAU	2	ia,wiki:cy	5,13
@@ -1670,7 +1665,6 @@ BOTI	2	ia,wiki:cy	15,6
 BOTIAU	2	ia,wiki:cy	4,11
 BOTYN	2	ia,wiki:cy	2,2
 BOURGEOIS	2	ia,wiki:cy	2,71
-BOWL	2	ia,wiki:cy	34,58
 BOWLIO	2	ia,wiki:cy	1,96
 BOWLIODD	2	gut,wiki:cy	1,2
 BOWLIWR	2	web:golwg360.cymru,wiki:cy	1,14
@@ -2542,7 +2536,6 @@ CHARON	2	ia,wiki:cy	1,51
 CHARPED	2	ia,wiki:cy	3,3
 CHARPEDI	2	ia,wiki:cy	4,6
 CHARPIAU	2	ia,wiki:cy	4,3
-CHART	2	ia,wiki:cy	55,74
 CHARTON	2	ia,wiki:cy	1,4
 CHARW	2	ia,wiki:cy,wikisource:cy	12,5,1
 CHARWR	2	ia,wiki:cy	11,5
@@ -3381,7 +3374,6 @@ CLERIGWYR	2	ia,wiki:cy	306,325
 CLERWYR	2	ia,wiki:cy,wikisource:cy	20,6,2
 CLICIO	2	web:ycymro.cymru,wiki:cy	2,8
 CLICIWCH	2	web:ycymro.cymru,wiki:cy	6,17
-CLIENT	2	ia,wiki:cy	5,22
 CLINIG	2	web:barn.cymru,wiki:cy	2,59
 CLINIGOL	2	web:ycymro.cymru,wiki:cy	3,156
 CLIPIO	2	ia,wiki:cy	1,5
@@ -3763,7 +3755,6 @@ CRIBWR	2	ia,wiki:cy	14,12
 CRICEDWR	2	web:golwg360.cymru,wiki:cy	1,176
 CRICIAID	2	ia,wiki:cy	4,2
 CRICIEDYN	2	ia,wiki:cy	4,6
-CRIES	2	ia,wiki:cy	19,10
 CRIMOGAU	2	ia,wiki:cy	5,3
 CRIMPIO	2	ia,wiki:cy	9,2
 CRINLLYS	2	ia,wiki:cy	6,7
@@ -5388,7 +5379,6 @@ DEALLUSION	2	web:barn.cymru,wiki:cy	3,63
 DEALLUSRWYDD	2	web:golwg360.cymru,wiki:cy	1,131
 DEALLUSYN	2	web:barn.cymru,wiki:cy	1,30
 DEBOT	2	ia,wiki:cy	2,3
-DEBUT	2	ia,wiki:cy	1,141
 DEBYD	2	ia,wiki:cy	2,9
 DEBYGOLRWYDD	2	ia,wiki:cy	215,60
 DECA	2	ia,wiki:cy	31,7
@@ -6867,7 +6857,6 @@ FASNACHAU	2	ia,wiki:cy	3,3
 FASNACHU	2	ia,wiki:cy	77,145
 FASNACHWR	2	ia,wiki:cy	95,62
 FASTARD	2	ia,wiki:cy,wikisource:cy	3,3,1
-FASTER	2	ia,wiki:cy	10,19
 FASWEDD	2	ia,wiki:cy	22,7
 FASWYR	2	ia,wiki:cy	1,5
 FATALIWN	2	ia,wiki:cy,wikisource:cy	2,94,1
@@ -7323,7 +7312,6 @@ FOM	2	ia,wiki:cy	74,61
 FOMENTWM	2	web:ycymro.cymru,wiki:cy	3,11
 FONCATH	2	ia,wiki:cy	1,2
 FONCYFFION	2	ia,wiki:cy	1,27
-FOND	2	ia,wiki:cy	131,52
 FONDO	2	ia,wiki:cy	4,29
 FONED	2	ia,wiki:cy	8,2
 FONEDDIGESAU	2	ia,wiki:cy	44,7
@@ -7750,7 +7738,6 @@ GAMENWIR	2	ia,wiki:cy	24,2
 GAMEO	2	ia,wiki:cy	1,7
 GAMER	2	ia,wiki:cy	16,7
 GAMERAU	2	web:ycymro.cymru,wiki:cy	1,23
-GAMES	2	ia,wiki:cy	39,203
 GAMET	2	ia,wiki:cy	3,14
 GAMGYMRYD	2	ia,wiki:cy	3,15
 GAMLAN	2	ia,wiki:cy,wikisource:cy	72,3,2
@@ -10019,7 +10006,6 @@ HELMI	2	ia,wiki:cy	3,6
 HELMONT	2	ia,wiki:cy	2,4
 HELOGAN	2	ia,wiki:cy	7,7
 HELPA	2	ia,wiki:cy	38,6
-HELPED	2	ia,wiki:cy	20,18
 HELPER	2	ia,wiki:cy	35,3
 HELWIG	2	ia,wiki:cy	1,36
 HEMION	2	ia,wiki:cy	1,7
@@ -11316,7 +11302,6 @@ MALAEN	2	ia,wiki:cy	20,6
 MALAI	2	ia,wiki:cy	4,3
 MALARIA	2	ia,wiki:cy	5,93
 MALER	2	ia,wiki:cy	13,7
-MALES	2	ia,wiki:cy	16,10
 MALET	2	ia,wiki:cy	10,76
 MALIA	2	ia,wiki:cy	2,29
 MALLA	2	ia,wiki:cy	2,14
@@ -12718,7 +12703,6 @@ PARCHWYD	2	ia,wiki:cy	4,2
 PARDYNAU	2	ia,wiki:cy	5,2
 PARDYNWYD	2	ia,wiki:cy	1,2
 PAREDD	2	ia,wiki:cy	4,22
-PARENT	2	ia,wiki:cy	31,81
 PARENTHESIS	2	ia,wiki:cy	5,2
 PARER	2	ia,wiki:cy	9,4
 PARES	2	ia,wiki:cy	14,26
@@ -13304,7 +13288,6 @@ PITSH	2	ia,wiki:cy	3,2
 PIWRITAN	2	ia,wiki:cy,wikisource:cy	2,26,37
 PIWRITANIAETH	2	web:barn.cymru,wiki:cy	1,29
 PIWTER	2	ia,wiki:cy	2,3
-PLACED	2	ia,wiki:cy	296,11
 PLADURIAU	2	ia,wiki:cy	18,8
 PLAENAU	2	ia,wiki:cy	1,3
 PLAGIO	2	ia,wiki:cy	5,9
@@ -13319,7 +13302,6 @@ PLANHIGFEYDD	2	ia,wiki:cy	5,50
 PLANNER	2	ia,wiki:cy	1,1
 PLANNODD	2	ia,wiki:cy,wikisource:cy	13,13,1
 PLANNWYD	2	ia,wiki:cy,wikisource:cy	2,26,1
-PLANTED	2	ia,wiki:cy	64,11
 PLANTER	2	ia,wiki:cy	5,1
 PLANTES	2	ia,wiki:cy	2,10
 PLANWYDD	2	ia,wiki:cy,wikisource:cy	26,3,1
@@ -13488,7 +13470,6 @@ PRIODOLODD	2	ia,wiki:cy	3,21
 PRIODOLWYD	2	ia,wiki:cy	9,27
 PRIODWCH	2	ia,wiki:cy	3,2
 PRIODWEDD	2	ia,wiki:cy	12,29
-PRIOR	2	ia,wiki:cy,wikisource:cy	280,208,2
 PRIORDAI	2	ia,wiki:cy	3,3
 PRIORES	2	ia,wiki:cy	6,1
 PRISIA	2	ia,wiki:cy	10,3
@@ -13701,7 +13682,6 @@ RATH	2	ia,wiki:cy,wikisource:cy	64,86,1
 RATHA	2	ia,wiki:cy	2,4
 RATHI	2	ia,wiki:cy	1,3
 RATHO	2	ia,wiki:cy	1,2
-RATIO	2	ia,wiki:cy	21,17
 RAWD	2	ia,wiki:cy,wikisource:cy	182,3,2
 RAWI	2	ia,wiki:cy	2,9
 RAWIAU	2	ia,wiki:cy	8,1
@@ -13773,7 +13753,6 @@ REOLODD	2	ia,wiki:cy	6,40
 REOLON	2	ia,wiki:cy	3,2
 REOLWYD	2	ia,wiki:cy	4,45
 REOLYDD	2	ia,wiki:cy	7,5
-REP	2	ia,wiki:cy	64,54
 REPERTOIRE	2	web:ycymro.cymru,wiki:cy	3,125
 RESEN	2	ia,wiki:cy	11,5
 RESIN	2	ia,wiki:cy	84,60
@@ -14374,7 +14353,6 @@ SENNI	2	ia,wiki:cy	1,45
 SENNO	2	ia,wiki:cy	2,2
 SENSOR	2	web:barn.cymru,wiki:cy	3,17
 SENSRO	2	web:ycymro.cymru,wiki:cy	1,168
-SENT	2	ia,wiki:cy	635,33
 SENTIMENTAL	2	ia,wiki:cy	5,85
 SENTIMENTALIAETH	2	web:barn.cymru,wiki:cy	1,7
 SEPAL	2	ia,wiki:cy	5,202
@@ -14388,7 +14366,6 @@ SERENNOG	2	ia,wiki:cy	7,73
 SERF	2	ia,wiki:cy	26,4
 SERGE	2	ia,wiki:cy	6,906
 SERIAN	2	ia,wiki:cy	4,2
-SERIES	2	ia,wiki:cy	137,507
 SERIN	2	ia,wiki:cy	3,45
 SEROG	2	ia,wiki:cy	23,14
 SERYDD	2	ia,wiki:cy	28,3
@@ -14590,7 +14567,6 @@ STAMPIAU	2	ia,wiki:cy	6,74
 STAMPIO	2	ia,wiki:cy	18,10
 STANS	2	ia,wiki:cy	8,5
 STAPES	2	ia,wiki:cy	3,8
-STARTS	2	ia,wiki:cy	3,40
 STARTSIO	2	ia,wiki:cy	2,4
 STATIG	2	web:ycymro.cymru,wiki:cy	1,44
 STEC	2	web:barn.cymru,wiki:cy	1,13
@@ -14623,7 +14599,6 @@ STORC	2	ia,wiki:cy	2,3
 STORDY	2	ia,wiki:cy	1,13
 STORFEYDD	2	ia,wiki:cy	1,28
 STORIA	2	ia,wiki:cy	1,137
-STORIES	2	ia,wiki:cy	43,272
 STORIOL	2	web:ycymro.cymru,wiki:cy	1,38
 STORIWR	2	ia,wiki:cy	1,52
 STOW	2	ia,wiki:cy	22,50
@@ -25647,7 +25622,6 @@ PLALADDWR	1	wiki:cy	11
 PLALEIDDIAID	1	wiki:cy	3
 PLANCTON	1	wiki:cy	16
 PLANHIGOL	1	wiki:cy	7
-PLANNED	1	wiki:cy	11
 PLASEBO	1	wiki:cy	4
 PLASTAI	1	wiki:cy	10
 PLASTIGAU	1	wiki:cy	23

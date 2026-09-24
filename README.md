@@ -5,7 +5,7 @@ The Welsh word list, and the evidence for every word in it.
 Built by [`blinkered-attestation`](https://github.com/blinkered/blinkered-attestation). The rule,
 the evidence format and the reasoning live there; what lives here is Welsh.
 
-**19,697 of 47,635 candidates proved, 41.3%**, across 9 independent
+**19,601 of 47,513 candidates proved, 41.3%**, across 9 independent
 families, 9 of which a stranger could check by fetching.
 
 ## What is in this repository
@@ -46,7 +46,7 @@ eBible has no Welsh translation, so there is no news corpus and no Bible family.
 **Digraphs are never tiles.** CH, DD, FF, NG, LL, PH, RH and TH are two tiles each, as for every
 digraph in the game, so matching a Welsh word in running text needs nothing special. Mutation
 does, in a way no fold can help with: FEDDWL, NGHYMRU and CHYMRAEG are separate candidates, and
-each needs its own three sightings. That is most of why a 47,635-word list sits near 40%.
+each needs its own three sightings. That is most of why a 47,513-word list sits near 40%.
 
 **Where the drop list points.** The first build, with 92 Archive texts and three publishers, kept
 35.4%; this one, with 242 texts (129 of them legible) and five publishers, keeps 41.3%. 14,967 of
@@ -55,12 +55,13 @@ else: ABERTHIAD, ABERTHOL. One more family of Welsh books or long-form prose wou
 by tens of points. Golwg360 and Bro360 yielded only a handful of pages each to the harvest, so a
 deeper fetch of those two is the obvious next step.
 
-**English in the list.** The candidates carry English (THE, WAS, HIS, NOT and HAD are all on
-them), and the Welsh shelf, Wikipedia and Gutenberg all quote English. Measured: 1,040 of the
-19,697 shipped words (5.3%) are also English candidates, and 218 are in the top 3,000 of the
-English list. A few of those 218 are Welsh words too (MAN, PAN, CAN); by eye about 150 are plain
-English (THE, WAS, DOES, ALL, WELL, PAID, UNION). That is a fault in the candidate list and wants
-fixing before this ships.
+**English in the list, and what came out.** The candidates carried English that the hunspell
+validator let through, and the Welsh shelf, Wikipedia and Gutenberg all quote it, so the first
+build shipped HIM, HOW, DID, WANT, FATHER and TRUTH on real evidence. The candidate list was cut on
+2026-09-23 (see `candidates/cy/PROVENANCE.md` and `english.tsv` in blinkered-attestation): 122
+words went, 96 of which had been shipping. What remains shared with English is mostly Welsh spelled
+like English, and stays on purpose: PAID ("don't"), UNION ("exactly"), WELL and WAS (the soft
+mutations of GWELL and GWAS), ALL (GALL).
 
 **Tiles.** Every tile spells some shipped word; J (15) is the rarest.
 
